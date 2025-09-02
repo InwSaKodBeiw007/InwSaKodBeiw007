@@ -10,7 +10,7 @@ Student
 
 \---
 
-\### 🎯 Inspiration
+### 🎯 Inspiration
 
 One of my biggest inspirations is **Skyrim** — a masterpiece that showed me how games can feel like living, breathing worlds.
 
