@@ -8,7 +8,7 @@ Student
 
 ✨ Experienced with **Unity** and **Roblox Studio** — Unity remains my favorite engine
 
-\---
+---
 
 ### 🎯 Inspiration
 
@@ -16,7 +16,7 @@ One of my biggest inspirations is **Skyrim** — a masterpiece that showed me ho
 
 That’s the kind of experience I want to bring into my own creations.
 
-\---
+---
 
 * 🌍  I'm based in Nakhon Ratchasima, Thailand
 * ✉️  You can contact me at [gamekung2707@gmail.com](mailto:gamekung2707@gmail.com)
